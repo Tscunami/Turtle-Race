@@ -10,6 +10,6 @@ Description:
 
 So make your bet and 
 
-...
+     ...
 
-Enjoy your race!
+           Enjoy your race!
